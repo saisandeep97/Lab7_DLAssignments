@@ -1,0 +1,9 @@
+Style Transfer - No dataset required. Images directly downloaded from web. 
+Facial Verification- https://drive.google.com/file/d/1ykjp7xHOE2TSTjcDzm6NlJRP2n_JSaBW/view?usp=sharing 
+Trimmed verion of LFW dataset suitable for our case study. 
+Ref -  https://vis-www.cs.umass.edu/lfw/
+Object Segmentation - https://drive.google.com/file/d/1jPBwmlPCkX9engt0sohY3CsnlUlFLQsF/view?usp=drive_link
+Peoples clothing dataset zipped.
+Ref -  https://www.kaggle.com/datasets/rajkumarl/people-clothing-segmentation
+
+Data can be directly accessed through colab using commands provided in the code. 
